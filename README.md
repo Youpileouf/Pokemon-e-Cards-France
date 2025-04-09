@@ -42,7 +42,7 @@ To do :
 
 Historique :
 
-09/04/2024 : première release de la Battle e Series 1
+09/04/2025 : première release de la Battle e Series 1
 
 
 Un bug? Un problème? #Youpileouf
