@@ -3,7 +3,7 @@ Les e-cards de Pokémon rendues compatibles avec les jeux Pokémon français
 
 
 
-L'arborescence respecte les boosters boosters tels que sortis au japon.
+L'arborescence respecte les boosters tels que sortis au japon.
 
 Les fichiers .raw sont destinés à être imprimés en dotecodes (via nedcprint développé par caitsith)
 
