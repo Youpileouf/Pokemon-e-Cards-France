@@ -29,6 +29,10 @@ To do :
 
 -Partage carte promotionnelles et diverses Rubis/Saphir fr (y compris Passe Eon et poupées Régi)
 
+-Création d'un tutoriel d'usage des fichiers et d'un guide d'impression
+
+-Création d'une documentation décrivant la méthodologie de modification des cartes
+
 -Déblocage fonction évènements mystère sur pokémon émeraude Fr
 
 -Partage cartes de pokémon émeraude Fr
@@ -39,3 +43,6 @@ To do :
 Historique :
 
 09/04/2024 : première release de la Battle e Series 1
+
+
+Un bug? Un problème? #Youpileouf
