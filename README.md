@@ -12,10 +12,15 @@ Je tiens à chaleureusement remercier Caitsith Goppier, Imablissy, UndeadxRealit
 Je tiens également à remercier BillyMcBill et Rejill pour leur précieuse aide pendant le processus de traduction et d'alpha/beta testing.
 
 To do :
+
 -Partage des visuels des cartes physiques pour habiller les dotecodes
+
 -Partage Battle e Series 2
+
 -Partage carte promotionnelles et diverses Rubis/Saphir fr (y compris Passe Eon et poupées Régi)
+
 -Déblocage fonction évènements mystère sur pokémon émeraude Fr
+
 -Partage cartes de pokémon émeraude Fr
 
 
