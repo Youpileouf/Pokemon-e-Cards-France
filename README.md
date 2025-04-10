@@ -44,5 +44,6 @@ Historique :
 
 09/04/2025 : première release de la Battle e Series 1
 
+10/04/2025 : première release de la Battle e Series 2, réorganisation des dossiers pour plus de clareté
 
 Un bug? Un problème? #Youpileouf
