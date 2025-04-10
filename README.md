@@ -25,7 +25,7 @@ To do :
 
 -Partage des visuels des cartes physiques pour habiller les dotecodes
 
--Partage carte promotionnelles et diverses Rubis/Saphir fr (y compris Passe Eon et poupées Régi)
+-Partage cartes promotionnelles et diverses Rubis/Saphir fr (y compris Passe Eon et poupées Régi)
 
 -Création d'un tutoriel d'usage des fichiers et d'un guide d'impression
 
