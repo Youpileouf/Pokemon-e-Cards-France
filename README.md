@@ -25,7 +25,7 @@ To do :
 
 -Partage des visuels des cartes physiques pour habiller les dotecodes
 
--Partage cartes promotionnelles et diverses Rubis/Saphir fr (y compris Passe Eon et poupées Régi)
+-Partage cartes promotionnelles et diverses Rubis/Saphir fr (y compris poupées Régi)
 
 -Création d'un tutoriel d'usage des fichiers et d'un guide d'impression
 
@@ -43,5 +43,9 @@ Historique :
 09/04/2025 : première release de la Battle e Series 1
 
 10/04/2025 : première release de la Battle e Series 2, réorganisation des dossiers pour plus de clareté
+
+14/04/2025 : correction des titres affichés à l'écran titre du e-Reader des .sav de dresseurs comportants des é è et ê
+
+14/04/2025 : ajout des fichiers Passe EON
 
 Un bug? Un problème? #Youpileouf
