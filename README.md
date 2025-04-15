@@ -46,7 +46,7 @@ Historique :
 
 14/04/2025 : correction des titres affichés à l'écran titre du e-Reader des .sav de dresseurs comportants des é è et ê
 
-14/04/2025 : ajout des fichiers Passe EON
+14/04/2025 : ajout des fichiers Passe EON -> Crédit à notblissy https://github.com/notblisy
 
 15/04/2025 : ajout des fichiers Poupee REGI
 
