@@ -25,7 +25,7 @@ To do :
 
 -Partage des visuels des cartes physiques pour habiller les dotecodes
 
--Partage cartes promotionnelles et diverses Rubis/Saphir fr (y compris poupées Régi)
+-Partage cartes promotionnelles et diverses Rubis/Saphir fr
 
 -Création d'un tutoriel d'usage des fichiers et d'un guide d'impression
 
@@ -47,5 +47,7 @@ Historique :
 14/04/2025 : correction des titres affichés à l'écran titre du e-Reader des .sav de dresseurs comportants des é è et ê
 
 14/04/2025 : ajout des fichiers Passe EON
+
+15/04/2025 : ajout des fichiers Poupee REGI
 
 Un bug? Un problème? #Youpileouf
