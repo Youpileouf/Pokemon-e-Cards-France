@@ -1,4 +1,4 @@
-# Pok-mon-e-Cards-France
+# Pokemon-e-Cards-France
 Les e-cards de Pokémon rendues compatibles avec les jeux Pokémon français
 
 
@@ -50,6 +50,6 @@ Historique :
 
 15/04/2025 : ajout des fichiers Poupee REGI
 
-24/05/2025 : ajout des visuels des ecards dresseurs des 4 premiers boosters
+24/05/2025 : ajout des visuels des ecards dresseurs des 4 premiers boosters de la e series 1 et d'un tutoriel d'usage
 
 Un bug? Un problème? #Youpileouf
