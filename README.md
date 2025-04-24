@@ -50,4 +50,6 @@ Historique :
 
 15/04/2025 : ajout des fichiers Poupee REGI
 
+24/05/2025 : ajout des visuels des ecards dresseurs des 4 premiers boosters
+
 Un bug? Un problème? #Youpileouf
