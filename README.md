@@ -52,4 +52,6 @@ Historique :
 
 24/05/2025 : ajout des visuels des ecards dresseurs des 4 premiers boosters de la e series 1 et d'un tutoriel d'usage
 
+04/05/25 : ajout des visuels manquants de la Battle e Series 1, de la carte POUPEE REGI et du Passe EON
+
 Un bug? Un problème? #Youpileouf
