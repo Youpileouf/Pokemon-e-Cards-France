@@ -1,0 +1,39 @@
+Matériel requis :
+une cartouche Emeraude FRENCH
+une cartouche programmable
+deux GBA
+Deux adaptateurs sans fil gba
+
+Suivre les étapes suivantes :
+1/Avoir 8 badges
+2/Débloquer CADEAUX MYSTERE dans la boutique de Rosyère : remplir le formulaire au comptoir avec "Connexion avec les Dresseur"
+3/Sauvegarder, relancer le jeu.
+4/Sur l'écran d'accueil, sélectionner votre nouvelle option "Cadeau Mystère"
+5/A l'aide d'une cartouche programmable, lancer sur une seconde GBA le programme de ditribution EVENEMENTS_MYSTERE_DISTRI_V7.gba
+6/Connecter les deux GBA avec deux adaptateurs sans fils, réaliser la distribution.
+7/Bravo un nouveau PNJ est apparu au 1er étage de tous les Centres Pokémons ! A partir d'ici, il n'y aura plus besoin de recommencer les étapes 1 à 7!
+8/Le nouveau PNJ permet d'accéder à la fonction EVENEMENTS MYSTERE (différente de CADEAU MYSTERE).
+9/Pour profiter des e-cards, lancer la fonction EVENMENTS MYSTERE
+
+Note :
+EVENEMENTS_MYSTERE_DISTRI_V7 est totalement sécurisé et n'alterera pas votre cartouche.
+Ce programme va venir injecter dans l'emplacement mémoire "Carte Miracle" de votre sauvegarde un code custom qui permet d'accéder à la fonction EVENEMENTS MYSTERE sans passer par le menu principal du jeu.
+EVENEMENT MYSTERE est toujours présent dans le code du jeu mais a été retirée du menu principal de Pokémon Emeraude sur les cartouches non japonnaises.
+Le programme est automatiquement effacé si une nouvelle Carte Miracle est reçue.
+
+Les e-cards scannées sont également stockées dans votre sauvegarde. Une ecard de chaque type peut être sauvée à la fois. Si une nouvelle ecard du même type est scannée, elle remplacera l'ancienne dans la save.
+Carte de Combat dresseur :
+0x0ABEC -> sur BC bytes
+0x19BEC -> sur BC bytes
+
+Carte de Baie
+0x0A378 -> sur 34 bytes
+0x17378 -> sur 34 bytes
+
+Aucune manipulation de la RAM ou de la ROM n'est effectuée.
+Toutes les fonctions permettant le fonctionnement de ces cartes sont déjà présentes dans le jeu.
+
+To do :
+Traduire le texte à l'écran de EVENEMENTS_MYSTERE_DISTRI_V7.gba
+Débugger l'affichage de distibution de baie côté e-Reader (bug esthétique uniquement)
+Ajouter des cartes Pass-Eon et Poupées Régi compatibles.
