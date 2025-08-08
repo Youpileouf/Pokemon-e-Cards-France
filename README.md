@@ -54,4 +54,6 @@ Historique :
 
 04/05/25 : ajout des visuels manquants de la Battle e Series 1, de la carte POUPEE REGI et du Passe EON
 
+08/08/25 : Compatibilité étendue à Pokémon Emeraude, partage des cartes Battle e Series 1&2 en compatibilité Emeraude suffixe "_Em"
+
 Un bug? Un problème? #Youpileouf
