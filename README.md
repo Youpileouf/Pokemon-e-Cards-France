@@ -25,13 +25,11 @@ To do :
 
 -Partage des visuels des cartes physiques pour habiller les dotecodes
 
--Partage cartes promotionnelles et diverses Rubis/Saphir fr
+-Partage cartes promotionnelles Rubis/Saphir fr
 
 -Création d'un tutoriel d'usage des fichiers et d'un guide d'impression
 
 -Création d'une documentation décrivant la méthodologie de modification des cartes
-
--Déblocage fonction évènements mystère sur pokémon émeraude Fr
 
 -Partage cartes de pokémon émeraude Fr
 
@@ -55,5 +53,7 @@ Historique :
 04/05/25 : ajout des visuels manquants de la Battle e Series 1, de la carte POUPEE REGI et du Passe EON
 
 08/08/25 : Compatibilité étendue à Pokémon Emeraude, partage des cartes Battle e Series 1&2 en compatibilité Emeraude suffixe "_Em"
+
+10/08/25 : ajout des fichiers .sav de e-Reader(USA) compatibles avec Pokémon Emeraude
 
 Un bug? Un problème? #Youpileouf
