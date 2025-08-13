@@ -13,7 +13,7 @@ Ces fichiers .sav sont destinés à être utilisés avec un e-Reader USA.
 
 
 
-Remerciement :
+# Remerciement :
 
 Je tiens à chaleureusement remercier Caitsith Goppier, Imablissy, UndeadxReality, Artrios pour l'ensemble des outils ayant rendu cette régionnalisation possible.
 
@@ -21,7 +21,7 @@ Je tiens également à remercier BillyMcBill et Rejill pour leur précieuse aide
 
 
 
-To do :
+# To do :
 
 -Partage des visuels des cartes physiques pour habiller les dotecodes
 
@@ -36,7 +36,7 @@ To do :
 
 
 
-Historique :
+# Historique :
 
 09/04/2025 : première release de la Battle e Series 1
 
@@ -55,5 +55,7 @@ Historique :
 08/08/25 : Compatibilité étendue à Pokémon Emeraude, partage des cartes Battle e Series 1&2 en compatibilité Emeraude suffixe "_Em"
 
 10/08/25 : ajout des fichiers .sav de e-Reader(USA) compatibles avec Pokémon Emeraude
+
+13/08/25 : correction des baies Emeraude et ajout des fichiers .sav de e-Reader(USA) correspondants
 
 Un bug? Un problème? #Youpileouf
