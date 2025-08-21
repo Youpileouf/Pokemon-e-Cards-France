@@ -1,4 +1,5 @@
-Ce patch s'installe sur l'emplacement du set-up EVENEMENT MYSTERE Distri.
+Ce patch s'installe sur l'emplacement du set-up EVENEMENT_MYSTERE_DISTRI.
+Pour scanner d'autre cartes, le set-up doit être recommencé, effacant le patch.
 
 Pour activer/désactiver le patch, parler à l'assistant du Prof. Orme.
 
@@ -10,3 +11,5 @@ Quand le patch est actif :
 - SELECT + R dans le menu de l'équipe pour passer en visualisation des IVs
 - SELECT + START dans le menu de l'équipe pour passer en visualisation des EVs
 
+Patch fourni par notblissy
+Traduit par Youpileouf
