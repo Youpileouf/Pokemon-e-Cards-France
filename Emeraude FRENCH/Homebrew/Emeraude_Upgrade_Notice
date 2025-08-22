@@ -4,8 +4,8 @@ Pour scanner d'autre cartes, le set-up doit être recommencé, effacant le patch
 Pour activer/désactiver le patch, parler à l'assistant du Prof. Orme.
 
 Quand le patch est actif :
--Bug de la seed inital RNG corrigée
--Possible de courir partout, y compris dans les bâtiment
+-Bug de la seed initale RNG corrigé
+-Possible de courir partout, y compris dans les bâtiments
 - R dans l'overworld pour couper la musique (conserve les bruitages)
 - R + DROITE dans l'overworld pour désactiver les pokémons sauvages dans les herbes et les grottes
 - SELECT + R dans le menu de l'équipe pour passer en visualisation des IVs
