@@ -50,4 +50,8 @@ Je tiens également à remercier BillyMcBill et Rejill pour leur précieuse aide
 
 13/08/25 : correction des baies Emeraude et ajout des fichiers .sav de e-Reader(USA) correspondants
 
+10/11/25 : ajout des visuels manquants de la Battle e Series 2, ajout des nouvelles cartes Homebrew
+
+20/11/25 : Mise à jour du README
+
 Un bug? Un problème? #Youpileouf
