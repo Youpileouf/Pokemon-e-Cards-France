@@ -11,7 +11,12 @@ Compte tenu de la difficulté d'impression des cartes, des fichiers alternatifs 
 
 Ces fichiers .sav sont destinés à être utilisés avec un e-Reader USA.
 
-
+# Pour plus de détails sur l'utilisation des ecards
+- Comment faire tourner les choses sur ému ou sur vraie console : https://forum.prama-initiative.com/viewtopic.php?f=3&t=877
+- La liste des contenus additionnels dispo pour nos cartouches FR : https://forum.prama-initiative.com/viewtopic.php?f=3&t=879
+- La structure hexadécimale des fichiers de DLC : https://forum.prama-initiative.com/viewtopic.php?f=3&t=878
+- Comment fabriquer ses propres cartes simples : https://forum.prama-initiative.com/viewtopic.php?f=3&t=880
+- Comment fabriquer ses propres cartes complexes : https://forum.prama-initiative.com/viewtopic.php?f=3&t=882
 
 # Remerciement :
 
@@ -19,21 +24,8 @@ Je tiens à chaleureusement remercier Caitsith Goppier, Imablissy, UndeadxRealit
 
 Je tiens également à remercier BillyMcBill et Rejill pour leur précieuse aide pendant le processus de traduction et d'alpha/beta testing.
 
-
-
 # To do :
-
--Partage des visuels des cartes physiques pour habiller les dotecodes
-
 -Partage cartes promotionnelles Rubis/Saphir fr
-
--Création d'un tutoriel d'usage des fichiers et d'un guide d'impression
-
--Création d'une documentation décrivant la méthodologie de modification des cartes
-
--Partage cartes de pokémon émeraude Fr
-
-
 
 
 # Historique :
