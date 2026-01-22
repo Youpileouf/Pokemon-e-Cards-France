@@ -1,0 +1,14 @@
+Pour utiliser ces scripts, insérer les fichiers sur la carte SD de votre 2DS, 3DS en respectant l'arborescence :
+3ds/PKSM/scripts/...
+avec 
+scripts/e pour Emeraude
+scripts/rs pour Rubis et Saphir
+scripts/frlg pour Rouge-Feu et Vert Feuille.
+
+La fin du nom de fichier de chaque script permet de connaitre sa compatibilité :
+RSERfVf -> compatibilité complète avec les jeux de la 3G
+RS -> compatible seulement avec Rubis et Saphir
+E -> compatible seulement avec Emeraude
+RfVf -> compatible seulement avec Rouge-Feu et Vert-Feuille
+
+/!\ ces scripts sont conçus pour des jeux FRANCAIS.
