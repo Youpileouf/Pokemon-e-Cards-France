@@ -54,4 +54,6 @@ Je tiens également à remercier BillyMcBill et Rejill pour leur précieuse aide
 
 20/11/25 : Mise à jour du README
 
+20/02/26 : Ajout de 32 cartes Battle e Emeraude pour le projet de restauration des fonctionnalités japonaises de Pokémon Emeraude.
+
 Un bug? Un problème? #Youpileouf
