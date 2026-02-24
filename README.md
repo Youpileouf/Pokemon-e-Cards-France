@@ -42,18 +42,20 @@ Je tiens également à remercier BillyMcBill et Rejill pour leur précieuse aide
 
 24/05/2025 : ajout des visuels des ecards dresseurs des 4 premiers boosters de la e series 1 et d'un tutoriel d'usage
 
-04/05/25 : ajout des visuels manquants de la Battle e Series 1, de la carte POUPEE REGI et du Passe EON
+04/05/2025 : ajout des visuels manquants de la Battle e Series 1, de la carte POUPEE REGI et du Passe EON
 
-08/08/25 : Compatibilité étendue à Pokémon Emeraude, partage des cartes Battle e Series 1&2 en compatibilité Emeraude suffixe "_Em"
+08/08/2025 : Compatibilité étendue à Pokémon Emeraude, partage des cartes Battle e Series 1&2 en compatibilité Emeraude suffixe "_Em"
 
-10/08/25 : ajout des fichiers .sav de e-Reader(USA) compatibles avec Pokémon Emeraude
+10/08/2025 : ajout des fichiers .sav de e-Reader(USA) compatibles avec Pokémon Emeraude
 
-13/08/25 : correction des baies Emeraude et ajout des fichiers .sav de e-Reader(USA) correspondants
+13/08/2025 : correction des baies Emeraude et ajout des fichiers .sav de e-Reader(USA) correspondants
 
-10/11/25 : ajout des visuels manquants de la Battle e Series 2, ajout des nouvelles cartes Homebrew
+10/11/2025 : ajout des visuels manquants de la Battle e Series 2, ajout des nouvelles cartes Homebrew
 
-20/11/25 : Mise à jour du README
+20/11/2025 : Mise à jour du README
 
-20/02/26 : Ajout de 32 cartes Battle e Emeraude pour le projet de restauration des fonctionnalités japonaises de Pokémon Emeraude.
+20/02/2026 : Ajout de 32 cartes Battle e Emeraude pour le projet de restauration des fonctionnalités japonaises de Pokémon Emeraude.
+
+24/02/2026 : Ajout des 32 dernières cartes Battle e Emeraude pour le projet de restauration des fonctionnalités japonaises de Pokémon Emeraude.
 
 Un bug? Un problème? #Youpileouf
